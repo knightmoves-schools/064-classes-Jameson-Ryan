@@ -6,8 +6,7 @@ class Person {
 }
 
 const guests = [
-  new Person(Jameson, Ryan),
-  new Person(Jerald, Applewater),
-  new Person(Jordan, Reynalds)
+  new Person('Jameson', 'Ryan'),
+  new Person('Jerald', 'Applewater'),
+  new Person('Jordan', 'Reynalds')
 ];
-
