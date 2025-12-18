@@ -5,8 +5,9 @@ class Person {
   }
 }
 
-const people = [
+const guests = [
   new Person(Jameson, Ryan),
   new Person(Jerald, Applewater),
   new Person(Jordan, Reynalds)
 ];
+
